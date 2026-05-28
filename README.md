@@ -1,4 +1,7 @@
 ## Hi there 👋
+<img align="center" alt="Js" height="40" width="40" src="https://githubusercontent.com">
+<img align="center" alt="Python" height="40" width="40" src="https://githubusercontent.com">
+
 
 <!--
 **DaviLucasBorges/DaviLucasBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
