@@ -1,6 +1,3 @@
-## Hi there 👋
-<img align="center" alt="Js" height="40" width="40" src="https://githubusercontent.com">
-<img align="center" alt="Python" height="40" width="40" src="https://githubusercontent.com">
 
 
 <!--
